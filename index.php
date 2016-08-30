@@ -1,5 +1,5 @@
 <?php
-//this comment added on branch2
+//this comment added on branch2, with also edit once again
 $to = 'mrsvette@localhost.com'; // replace with your address here
 $subject = 'Test mail';
 $message = 'Hello! This is a simple test email message.';
