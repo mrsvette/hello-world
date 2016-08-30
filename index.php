@@ -1,4 +1,5 @@
 <?php
+//this comment added on branch2
 //this comment added on branch3
 $to = 'mrsvette@localhost.com'; // replace with your address here
 $subject = 'Test mail';
