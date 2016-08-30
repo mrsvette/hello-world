@@ -6,3 +6,4 @@ $from = 'root@localhost.com';
 $headers = 'From:' . $from;
 mail($to,$subject,$message,$headers);
 echo 'Mail Sent.';
+?>
